@@ -1,28 +1,16 @@
-# This is the large headling
+# Liubov Chagaeva
 
-## This is a smaller headling
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**
+I was born in Russia. And now I'm living in China.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorites books are:
 
-Here is `some code` in the middle of a sentence.
+- *First*
+- *Second*
+- *Third*
 
-```
-This is 
-a block 
-of code
-```
 
-Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://giyhub.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
