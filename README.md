@@ -1,6 +1,6 @@
-#This is the large headling
+# This is the large headling
 
-##This is a smaller headling
+## This is a smaller headling
 
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poet's pen,
@@ -15,13 +15,13 @@ A local *habitation* and a **name**
 2. an ordered
 3. list
 
-Here is 'some code' in the middle of a sentence.
+Here is `some code` in the middle of a sentence.
 
-'''
+```
 This is 
 a block 
 of code
-'''
+```
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
